@@ -45,7 +45,7 @@ VITE_SUPABASE_ANON_KEY=your-anon-key
 ```bash
 npm run dev
 ```
-Open [http://localhost:5173](http://localhost:5173) to view the app.
+Open https://room-finder-sigma.vercel.app/ to view the app.
 
 ## Tech Stack
 - **Frontend**: React.js (Vite)
